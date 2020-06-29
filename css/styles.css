@@ -1,0 +1,110 @@
+hr {
+  margin: 0 0 0 15.625rem;
+  /* width: 63.125rem; */
+}
+
+table {
+  font-size: 0.9rem;
+  font-family: 'Dosis', sans-serif;
+  margin-left: 15.625rem;
+  padding: 0;
+  text-align: left;
+  /* width: 63.125rem; */
+}
+
+p {
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+}
+
+th {
+  padding: 0;
+}
+
+.portrait {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.quote {
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+  font-weight: 900;
+  font-size: 1.6rem;
+  padding-bottom: 1.5rem;
+}
+
+.timeline {
+  width: 90%;
+  margin: 0;
+  padding-bottom: 0;
+}
+
+.heading {
+  font-size: 3rem;
+  font-weight: bold;
+  font-family: 'Krona One', sans-serif;
+  color: #eeeeee;
+  text-align: center;
+  padding: 3rem;
+  padding-left: 25rem;
+  margin: 0;
+}
+
+.dates {
+  font-family: 'Dosis', sans-serif;
+  border-bottom: 1px solid #ccc;
+  width: 100px;
+}
+
+.content {
+  font-family: 'Dosis', sans-serif;
+  background-color: #eeeeee;
+  margin-left: 1px;
+  border-bottom: 1px solid #ccc;
+}
+
+.nutshell{
+  width: 60%;
+}
+
+.nut-header {
+  margin: 0;
+  text-align: center;
+}
+
+.nut {
+  margin: 2.1875em;
+}
+
+.left-column {
+  padding: 0;
+  width: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.right-column {
+  width: 2.187;
+  border-bottom: 1px solid #ccc;
+}
+
+
+.footer {
+  margin-top: 100px;
+  background-color: #eeeeee;
+  width: 60%;
+  margin: 100px auto auto auto;
+}
+
+/*
+.nut-row {
+  width: 60%;
+}
+*/
+
+.footer-text {
+  text-align: center;
+  margin: 10px;
+  font-family: 'Pacifico', cursive;
+}
